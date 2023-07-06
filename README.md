@@ -1,5 +1,5 @@
 # TRICKS12
-pkg update 
+ pkg update 
  pkg upgrade 
  pkg install git
  pkg install python
@@ -7,7 +7,7 @@ pkg update
  pkg install pip2
  pip2 install requests
  pip2 install mechanize
-git clon https://github.com/Tamoor12/Tricker.git
+git clone https://github.com/Tamoor12/TRICKS12.git
 
 cd TRICKS12
 
