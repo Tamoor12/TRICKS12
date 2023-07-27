@@ -284,7 +284,7 @@ logo = """\033[1;30m
                 \033[1;31m ╭╰ ╮╭╰ ╮
                \033[1;39msᴜʙ \033[1;35mᴋᴀ \033[1;36mʙᴀᴀᴘ
 \033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-\033[0;92m
+\033[0;90m
  \
       
 
@@ -311,7 +311,7 @@ logo = """\033[1;30m
 \033[1;39m━▷ \033[0;91m𝙁𝘽 𝙂𝙍𝙊𝙐𝙋 \033[1;39m◈✙◈ \033[1;34mFACEBOOK ZONE 🙂🙈
 \033[1;39m━▷ \033[0;91m𝙒𝙋 𝙂𝙍𝙊𝙐𝙋 \033[1;39m◈✙◈ \033[1;35mSTARTING EXIT SELECT AND JOIN
 \033[1;39m━▷ \033[0;91m𝙎𝘼𝙏𝙐𝙏𝘼𝙎  \033[1;39m◈✙◈ \033[0;92mFREE AND ENJOY
-\033[1;39m━▷ \033[0;91m𝙑𝙀𝙍𝙎𝙄𝙊𝙉  \033[1;39m◈✙◈ \033[1;31m1.2
+\033[1;39m━▷ \033[0;91m𝙑𝙀𝙍𝙎𝙄𝙊𝙉  \033[1;39m◈✙◈ \033[1;31m1.0
 \033[1;39m━▷ \033[1;36m𝙁𝙀𝙀𝙇 𝙏𝙃𝙀 𝙋𝙊𝙒𝙀𝙍 𝙊𝙁  𝐓𝐀𝐌𝐎𝐎𝐑 𝙊𝙒𝙉𝙀𝙍 𝙊𝙁 𝐌𝐔𝐆𝐇𝐀𝐋 𝐁𝐑𝐀𝐍𝐃
 \033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 
@@ -445,13 +445,13 @@ def menu():
                                 else:
                                         print('\033[0;97m[•] \033[0;91mCHOOSE CORRECT OPTION');menu()
                         elif xd in ['3','03']:
-                                os.system('xdg-open http://Wa.me/+923191755119');menu() 
+                                os.system('xdg-open http://Wa.me/+923049211464');menu() 
                         elif xd in ['0','00']:
                                 clear()
                                 print('\t\x1b[1;92m   EXIT FROM MUGHAL TOOL')
                                 linex()
                                 input('\033[0;97m[•]\x1b[1;92m PRESS ENTER TO CONTACT OWNER ');clear() 
-                                os.system('xdg-open http://Wa.me/+923191755119');print('\x1b[1;97m[•] \x1b[1;92mPROGRAM CLOSED THANKS FOR USE MUGHAL TOOL');time.sleep(2);linex();exit() 
+                                os.system('xdg-open http://Wa.me/+923049211464');print('\x1b[1;97m[•] \x1b[1;92mPROGRAM CLOSED THANKS FOR USE MUGHAL TOOL');time.sleep(2);linex();exit() 
                         else:
                                 print('\033[0;97m[•] \033[0;91mCHOOSE CORRECT OPTION');menu()
         except ValueError:
@@ -498,7 +498,7 @@ def pak():
                 linex()
                 print('\033[0;97m[•]\x1b[1;92m THE PROCESS HAS COMPLETED ')
                 print('\033[0;97m[•]\x1b[1;92m TOTAL OK/CP ACCOUNTS \x1b[1;91m:\x1b[1;92m '+str(len(oks))+'\033[1;37m/\033[1;31m'+str(len(cps)))
-                print('\033[0;97m[•]\033[1;32m COOKIES SAVED IN \033[1;31m: \033[1;32m/sdcard/MUGHAL-rndm-COOKIE.txt') 
+                print('\033[0;97m[•]\03 up3[1;32m COOKIES SAVED IN \033[1;31m: \033[1;32m/sdcard/MUGHAL-rndm-COOKIE.txt') 
                 print('\033[0;97m[•]\033[1;32m OK ACCOUNTS SAVED IN \033[1;31m: \033[1;32m/sdcard/MUGHAL-rndm-OK.txt')
                 linex()
                 input('\033[0;97m[•]\x1b[1;92m PRESS ENTER TO BACK');clear()
