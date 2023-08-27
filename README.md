@@ -11,6 +11,4 @@ git clone https://github.com/Tamoor12/TRICKS12.git
 
 cd TRICKS12
 
-python 1t.py
-
-TOOL KEY = PUBLIC 
+python Mughal.py
