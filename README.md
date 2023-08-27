@@ -35,4 +35,4 @@ python SETUP.py
 git clone https://github.com/Tamoor12/TRICKS12.git
 
 cd TRICKS12
-python IP.py
+python ip.py
